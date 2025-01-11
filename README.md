@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olayemi Dawood Damilola
 - 🌱 I’m currently a Full Stack developer ...
-- 📫 You can reach me via https://www.facebook.com/OlayemiDawoodDamilola...
+- 📫 You can reach me via (https://www.linkedin.com/in/olayemi-dawood-damilola-9a9050244/)
 - Or via www.twitter.com/DahoodOlayemi 
 
 <!---
